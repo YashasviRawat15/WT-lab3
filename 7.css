@@ -1,0 +1,17 @@
+nav {
+    background-color:lightcyan;
+    position: fixed;
+    width: 100%;
+}
+
+.container{
+    position: relative;
+    top: 50px;
+}
+
+
+/* class*/
+.ne{
+    display: inline;
+    padding: 20px;
+}
